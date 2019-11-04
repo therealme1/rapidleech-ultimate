@@ -1,4 +1,8 @@
 {
   "name": "Rapidleech",
-  "repository": "https://github.com/Th3-822/rapidleech"
+  "repository": "https://github.com/Th3-822/rapidleech",
+  "Buildpacks":[
+    {
+      "url": "https://github.com/jdomonell/heroku-buildpack-php.git"
+    }
 }
